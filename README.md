@@ -12,7 +12,7 @@
 - :technologist:  I am a **Machine Learning and Software Engineer** @ [ERNI](https://www.betterask.erni/)  
     :satellite::small_airplane: prev: Co-founder and Flight Ops Manager @ [Venturi Unmanned Technologies](https://www.youtube.com/@venturiunmannedtechnologie2518/featured)
 - ❤️ I am passionate about **Machine Learning/Deep Learning, MLOps, Data, Software Engineering, Computer Vision, Biotech, UAVs, Optimization, Automation, and more!** 
-- :chart_with_upwards_trend: I enojoy developing ML/SW projects like [SpeedClimbing.AI](https://www.speedclimbing.ai) (🏗️ under construction...) and particpating at platforms like [Kaggle](https://www.kaggle/edomingo)
+- :chart_with_upwards_trend: I enojoy developing ML/SW projects such as [SpeedClimbing.AI](https://www.instagram.com/speedclimbing.ai) (🏗️ under construction...) and particpating at platforms like [Kaggle](https://www.kaggle/edomingo) 🤖🧠
 - 🏂 Also practicing sports like snowboard, wakeboard and climbing 🧗
 - 📫 How to reach me: edomingodomenech@gmail.com
 - 🏠 Barcelona
