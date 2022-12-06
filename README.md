@@ -9,7 +9,7 @@
 </p>  
 
 ### About me :raising_hand:
-- :technologist:  I am a **Machine Learning and Software Engineer** @ [ERNI](https://www.betterask.erni/)  
+- :technologist:  I am a **Machine Learning and Software Engineer** @ [ERNI](https://www.betterask.erni/) working on a Boehringer Ingelheim's pharma project  
     :satellite::small_airplane: prev: Co-founder and Flight Ops Manager @ [Venturi Unmanned Technologies](https://www.youtube.com/@venturiunmannedtechnologie2518/featured)
 - ❤️ I am passionate about **Machine Learning/Deep Learning, MLOps, Data, Software Engineering, Computer Vision, Bioinformatics, UAVs, Optimization, Automation,** and more!
 - 🤖🧠 I enojoy developing projects such as [SpeedClimbing.AI](https://www.instagram.com/speedclimbing.ai) (🏗️under construction) and participating at platforms like [Kaggle](https://www.kaggle/edomingo) 📈
