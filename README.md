@@ -1,4 +1,4 @@
-![Hi There](./vtol_enric.gif)
+<img alt="Hi There" src="./venturi_vtol_enric.gif"/>
 
 ### Hello there 👋 I'm Enric Domingo
 
