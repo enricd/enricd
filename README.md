@@ -2,10 +2,10 @@
 
 ### Hello there 👋 I'm Enric Domingo
 
-<p> <a href="https://www.linkedin.com/in/e-domingo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<p> <a href="https://www.linkedin.com/in/e-domingo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=&logo=linkedin&logoColor=white" /></a>  
 <a href="https://www.kaggle/edomingo" target="_blank"><img alt="Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/edomingo" /></a>  
-<a href="https://www.twitter/mad_enrico" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/mad_enrico?style=for-the-badge" /></a>
-
+<a href="https://www.twitter/mad_enrico" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/mad_enrico?label=Twitter&style=social" /></a>
+<a href="https://www.twitter/mad_enrico" target="_blank"><img alt="Twitter" src="https://img.shields.io/youtube/channel/subscribers/UCQiLQU7Ur-J4umYPV5WrcjQ?label=YouTube&style=social" /></a>
 </p>  
 
 ### About me :raising_hand:
