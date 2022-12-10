@@ -20,4 +20,4 @@
 
 [![Enric's github stats](https://github-readme-stats.vercel.app/api?username=enricd)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors (since 12/2022)](https://visitor-badge.glitch.me/badge?page_id=enricd.count_visitors)
+![visitors (since 12/2022)](https://visitor-badge.glitch.me/badge?page_id=enricd.count_visitors)  (visits since Dec 2022)
