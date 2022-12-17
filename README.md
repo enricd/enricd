@@ -4,7 +4,7 @@
 <h2>Hello there 👋 I'm Enric Domingo</h2>
 
 <p> <a href="https://www.linkedin.com/in/e-domingo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=&logo=linkedin&logoColor=white" /></a>  
-<a href="https://www.kaggle/edomingo" target="_blank"><img alt="Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/edomingo" /></a>  
+<a href="https://www.kaggle.com/edomingo" target="_blank"><img alt="Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/edomingo" /></a>  
 <a href="https://www.twitter.com/mad_enrico" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/mad_enrico?label=Twitter&style=social" /></a>
 <a href="https://www.youtube.com/channel/UCQiLQU7Ur-J4umYPV5WrcjQ" target="_blank"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCQiLQU7Ur-J4umYPV5WrcjQ?label=YouTube&style=social" /></a>
 </p> 
@@ -15,7 +15,7 @@
 - :technologist:  I am a **Machine Learning and Software Engineer** @ [ERNI](https://www.betterask.erni/) working on a [Boehringer Ingelheim](https://www.boehringer-ingelheim.com)'s pharma project    
     :satellite::small_airplane: prev: Co-founder, Flight Ops Manager and UAS Developer Pilot @ [Venturi Unmanned Technologies](https://www.youtube.com/@venturiunmannedtechnologie2518/featured)  
 - ❤️ I am passionate about **Machine Learning/Deep Learning, MLOps, Data, Software Engineering, Computer Vision, Bioinformatics, UAVs, Optimization, Automation,** and more!  
-- 🤖🧠 I enojoy developing projects such as [SpeedClimbing.AI](https://www.instagram.com/speedclimbing.ai) (🏗️under construction) and participating at platforms like [Kaggle](https://www.kaggle/edomingo) 📈  
+- 🤖🧠 I enojoy developing projects such as [SpeedClimbing.AI](https://www.instagram.com/speedclimbing.ai) (🏗️under construction) and participating at platforms like [Kaggle](https://www.kaggle.com/edomingo) 📈  
 - 🏂 Also practicing sports like snowboard, wakeboard and climbing 🧗  
 - 📫 How to reach me: edomingodomenech@gmail.com  
 - 🏠 Barcelona  
