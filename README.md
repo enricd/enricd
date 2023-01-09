@@ -11,7 +11,7 @@
 </div>
 
 
-### About me :raising_hand:
+### About me 🙋‍♂️
 - :technologist:  I am a **Machine Learning and Software Engineer** @ [ERNI](https://www.betterask.erni/) working on a [Boehringer Ingelheim](https://www.boehringer-ingelheim.com)'s pharma project    
     :satellite::small_airplane: prev: Co-founder, Flight Ops Manager and UAS Developer Pilot @ [Venturi Unmanned Technologies](https://www.youtube.com/@venturiunmannedtechnologie2518/featured)  
 - ❤️ I am passionate about **Machine Learning/Deep Learning, MLOps, Data, Software Engineering, Computer Vision, Bioinformatics, UAVs, Optimization, Automation,** and more!  
