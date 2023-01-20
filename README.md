@@ -3,10 +3,11 @@
     
 <h2>Hello there 👋 I'm Enric Domingo</h2>
 
+<a href="[https://enricdomingo.com)"><img src="https://img.shields.io/badge/enricdomingo.com-3c958a.svg"/></a>
 <p> <a href="https://www.linkedin.com/in/e-domingo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=&logo=linkedin&logoColor=white" /></a>  
 <!-- <a href="https://www.kaggle.com/edomingo" target="_blank"><img alt="Kaggle" src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/edomingo" /></a>   -->
-<a href="[https://www.kaggle.com/edomingo)"><img src="https://img.shields.io/badge/Kaggle-blue.svg"/></a>
-<a href="https://www.twitter.com/mad_enrico" target="_blank"><img alt="Twitter" src="https://img.shields.io/twitter/follow/mad_enrico?label=Twitter&style=social" /></a>
+<a href="[https://www.kaggle.com/edomingo)"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white&color=blue"/></a>
+<a href="https://www.twitter.com/mad_enrico" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-20BEFF?style=flat&logo=Twitter&logoColor=white&color=blue" /></a>
 <a href="https://www.youtube.com/channel/UCQiLQU7Ur-J4umYPV5WrcjQ" target="_blank"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCQiLQU7Ur-J4umYPV5WrcjQ?label=YouTube&style=social" /></a>
 </p> 
 </div>
