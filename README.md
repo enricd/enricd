@@ -21,7 +21,7 @@
 - ❤️ I am passionate about **Machine Learning, Deep Learning, MLOps, Data, Software Engineering, Computer Vision, Bioinformatics, UAVs, Optimization, Automation,** and more!  
 - 🤖 I enojoy developing projects such as [SpeedClimbing.AI](https://www.instagram.com/speedclimbing.ai) (🏗️under construction) and participating at platforms like [Kaggle](https://www.kaggle.com/edomingo) 📈  
 - 🏂 Also practicing sports like snowboard, wakeboard and climbing 🧗  
-- 📫 How to reach me: edomingodomenech@gmail.com  
+- 📫 How to reach me: contact.enricd@gmail.com  
 - 🏠 Barcelona  
 
 <hr>
