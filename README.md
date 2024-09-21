@@ -16,11 +16,12 @@
 
 
 ### About me 🙋‍♂️
-- :technologist:  I am the **Data & AI Services Lead** @ [ERNI](https://www.betterask.erni/) and **ML & Software Engineer** in different Pharma research projects 🧬.
+- :technologist:  I am **Data & AI Services Lead** @ [ERNI](https://www.betterask.erni/) and **Principal a.i. ML & Software Engineer** in Pharma research projects 🧬.
 - :small_airplane: prev: Co-founder, Flight Ops Manager and UAS Developer Pilot @ [Venturi Unmanned Technologies](https://www.youtube.com/@venturiunmannedtechnologie2518/featured)  
-- ❤️ I am passionate about **Machine Learning, Deep Learning, MLOps, Data, Software Engineering, Computer Vision, Bioinformatics, UAVs, Optimization, Automation,** and more!  
-- 🤖 I enojoy developing projects such as [SpeedClimbing.AI](https://www.instagram.com/speedclimbing.ai) (🏗️), 🔥[Olympo](https://olympo.ai), and participating at platforms like [Kaggle](https://www.kaggle.com/edomingo) 📈  
-- 🏂 Also practicing sports like snowboard, wakeboard and climbing 🧗  
+- ❤️ I am passionate about **Machine Learning, Deep Learning, MLOps, Data, Software Engineering, Computer Vision, Bioinformatics, UAVs, Optimization, Automation,** and more!
+- 📹 I create tech content on [YouTube](https://youtube.com/@enricd) and [Medium](https://medium.com/@enricdomingo)
+- 🤖 I enojoy developing projects such as [SpeedClimbing.AI](https://www.instagram.com/speedclimbing.ai) (🏗️), and participating at platforms like [Kaggle](https://www.kaggle.com/edomingo) 📈  
+- 🏂 Also practicing sports like snowboard, wakeboard, inline skating, running, and climbing 🧗  
 - 📫 How to reach me: contact.enricd@gmail.com  
 - 🏠 Barcelona  
 
@@ -32,5 +33,3 @@
   <img href="http://www.github.com/enricd">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enricd&&theme=blueberry_duo&hide_border=true" />
 </div>
-
-![visitors (since 12/2022)](https://visitor-badge.glitch.me/badge?page_id=enricd.count_visitors)  (visits since Dec 2022)
